@@ -1,0 +1,24 @@
+div {
+  background-color: red;
+}
+
+
+body > p {
+  background-color: green;
+  color:white;
+}
+
+button {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  border-color: black;
+}
+
+button:hover {
+  background-color: rgb(237, 133, 133);
+  color: white;
+  border-radius: 10px;
+  border-color: black;
+  cursor:pointer;
+}
